@@ -6,9 +6,10 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Priya-1911-R?style=social)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Priya-1911-R.Priya-1911-R)
 
+
 ## 📊 **GitHub Analytics**
 
-| ![Priya's GitHub Stats](YOUR_DEPLOYED_SERVICE_URL_HERE/api?username=Priya-1911-R&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](YOUR_DEPLOYED_SERVICE_URL_HERE/api/top-langs/?username=Priya-1911-R&layout=compact&theme=radical&hide_border=true&langs_count=8) |
+| ![Priya's GitHub Stats](https://my-stats.onrender.com/api?username=Priya-1911-R&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://my-stats.onrender.com/api/top-langs/?username=Priya-1911-R&layout=compact&theme=radical&hide_border=true&langs_count=8) |
 |:---:|:---:|
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya-1911-R&theme=radical&hide_border=true&mode=weekly) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Priya-1911-R&theme=radical&no-frame=true&row=2&column=4&margin-w=15) |
 
