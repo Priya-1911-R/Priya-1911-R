@@ -12,7 +12,7 @@
 
 | ![Priya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priya-1911-R&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-1911-R&layout=compact&theme=radical&hide_border=true&langs_count=8) |
 |:---:|:---:|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=Priya-1911-R&theme=radical&hide_border=true&mode=weekly) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Priya-1911-R&theme=radical&no-frame=true&row=2&column=4&margin-w=15) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priya-1911-R&theme=radical&hide_border=true&mode=weekly) | ![Trophies](https://github-profile-trophy.vercel.app/?username=Priya-1911-R&theme=radical&no-frame=true&row=2&column=4&margin-w=15) |
 
 ![Priya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priya-1911-R&theme=radical&hide_border=true&area=true&height=300)
 
@@ -90,8 +90,8 @@ A modern property listing platform with advanced search and user engagement feat
 ## 📫 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyadharshini-r-565a92290)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/priya-portfolio)
-[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://bit.ly/priya-resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyaportfolio2003.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SD7i-6UrL7CudiGs80dU_oFbzTFcMxkq/view)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyavasantha112003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priya-1911-R)
 
