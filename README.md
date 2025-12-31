@@ -49,7 +49,7 @@
 
 ## 🚀 **Featured Projects**
 
-### **Hotel Booking System** | [🔗 View](https://github.com/Priya-1911-R/hotel-booking-system)
+### **Hotel Booking System** | [🔗 View](https://github.com/Priya-1911-R/hotelbooking)
 ![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Priya-1911-R/hotel-booking-system?style=flat&color=blue) ![GitHub repo size](https://img.shields.io/github/repo-size/Priya-1911-R/hotel-booking-system?style=flat)
 
@@ -60,7 +60,7 @@ A comprehensive full-stack platform for hotel room reservations and management.
 - **Features:** Room search/filtering, booking management, admin dashboard, payment integration, and email notifications.
 - **Outcome:** Created a production-ready system demonstrating secure user workflows and data management best practices.
 
-### **Online Quiz Application** | [🔗 View](https://github.com/Priya-1911-R/online-quiz-app)
+### **Online Quiz Application** | [🔗 View](https://github.com/Priya-1911-R/onlinequiz)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Priya-1911-R/online-quiz-app?style=flat&color=blue) ![GitHub repo size](https://img.shields.io/github/repo-size/Priya-1911-R/online-quiz-app?style=flat)
 
@@ -71,7 +71,7 @@ An interactive assessment platform with real-time evaluation and administration 
 - **Database:** Utilized **PostgreSQL** with optimized queries for fast retrieval of questions and storage of user responses.
 - **UI/UX:** Enhanced user experience with **JavaScript** for client-side validation and **Bootstrap** for mobile-responsive design.
 
-### **RealNest Real Estate** | [🔗 View](https://github.com/Priya-1911-R/realnest-estate)
+### **RealNest Real Estate** | [🔗 View](https://github.com/Priya-1911-R/realNest)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248) ![React](https://img.shields.io/badge/React-18-61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![CSS3](https://img.shields.io/badge/CSS3-1572B6)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Priya-1911-R/realnest-estate?style=flat&color=blue) ![GitHub repo size](https://img.shields.io/github/repo-size/Priya-1911-R/realnest-estate?style=flat)
 
@@ -87,8 +87,8 @@ A modern property listing platform with advanced search and user engagement feat
 ## 📫 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyadharshini-r-565a92290)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bit.ly/priya-portfolio)
-[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://bit.ly/priya-resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://priyaportfolio2003.netlify.app/)
+[![Resume](https://img.shields.io/badge/Resume-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1OAJ73_9slc9t0Ru3zhj5vm-VbzLgM1Ba/view?usp=sharing)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyavasantha112003@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priya-1911-R)
 
